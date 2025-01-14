@@ -55,5 +55,5 @@ $ npm run test
 $ npm run test:e2e
 ```
 
-![unit-test](../{1D208A28-DD0F-42E6-A8F7-7E83D5ECEC70}.png)
+![unit-test]({1D208A28-DD0F-42E6-A8F7-7E83D5ECEC70}.png)
 ![e2e-test]({503B37BB-E019-493E-B645-51DC932E5C03}.png)
