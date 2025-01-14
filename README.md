@@ -53,7 +53,7 @@ $ npm run test
 
 # e2e tests
 $ npm run test:e2e
+```
 
-c:\Users\tmszw\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip\{9C5DF0D6-1B62-41AB-A364-9D62E6FE7E2B}.png
-
+![unit-test](../{1D208A28-DD0F-42E6-A8F7-7E83D5ECEC70}.png)
 ![e2e-test]({503B37BB-E019-493E-B645-51DC932E5C03}.png)
